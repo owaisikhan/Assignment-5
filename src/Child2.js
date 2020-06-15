@@ -1,4 +1,4 @@
-import React, { useReducer, useState } from 'react'
+import React, { useReducer } from 'react'
 import CounterReducer from './CounterReducer'
 const Child2 =()=>{
     const counter1 = {count:1}

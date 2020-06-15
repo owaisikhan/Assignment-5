@@ -1,5 +1,6 @@
-name: Assignment-4 CI
-process.env.CI = false
+name: Assignment-5
+env:
+  CI: false
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
